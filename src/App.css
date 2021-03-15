@@ -1,0 +1,205 @@
+.tudo{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color:white;
+height: 100%;
+width: 100%;
+position: absolute;
+}
+
+.centro{
+background-color:white;
+height: 100%;
+width: 22%;
+}
+
+.pergunta{
+font-weight: 300;
+text-align: center;
+margin-top: 12px;
+font-size: 23px;
+}
+
+.Username{
+color: #4F4F4F;
+font-size: 14px;
+color: #4F4F4F;
+font-weight: 645;
+margin-left: 18px;
+margin-top: 23px;
+}
+
+.resposta1{
+border: 1px solid #DCDCDC;
+border-radius: 5px;
+margin-top: 8px;
+display:flex;
+justify-content: center;
+align-content: center;
+height: 28px;
+width: 258px;
+}
+
+.resposta2{
+border: 1px solid #DCDCDC;
+border-radius: 5px;
+margin-top: 8px;
+height: 28px;
+width: 258px;
+}
+
+.inscrever{
+font-weight: 780;
+color: white;
+display:flex;
+justify-content: center;
+align-content: center;
+border-radius: 6px;
+border-style: solid;
+border: 1px solid #008000;
+margin-top: 20px;
+background-color: #2ea44f;
+height: 32px;
+width: 263px;
+}
+
+.fundo{
+margin-top: 15px;
+border: 1px solid #e9e9e9;
+border-radius: 5px;
+width: 100%;
+height: 35%;
+background-color:#f6f8fa;
+}
+
+.sign{
+display:flex;
+justify-content: center;
+align-content: center;
+}
+
+.new{
+float: left;
+}
+
+.caixafinal{
+border-radius: 3px;
+background-color: white;
+
+}
+
+.textofinal{
+display: flex;
+}
+
+.caixafinal{
+margin-top: 15px;
+}
+
+.create{
+margin-left: 5px;
+margin-top: 15px;    
+color: blue;
+float: left;
+}
+
+.new{
+text-align: center;
+margin-top: 15px;
+}
+
+.textofinal{
+border-radius: 3px;
+width: 100%;
+height: 50px;
+border:1px solid #e9e9e9;
+}
+
+.terms{
+color: blue;
+margin-left: 15px;
+font-size: 13px;
+}
+
+.Privacy{
+margin-left: 15px;
+}
+
+.Segurity{
+margin-left: 15px;
+}
+
+.Contact{
+margin-left: 15px;
+color: #4F4F4F;
+}
+
+.Password{
+font-size: 13px;
+margin-left: 18px;
+margin-top: 17px;
+}
+
+.pw{
+font-size: 14px;
+color: #4F4F4F;
+font-weight: 645;
+}
+
+
+.forget{
+font-weight: 500;
+font-size: 12px;
+margin-left: 112px;
+font-size-adjust: inherit;
+color: #4169E1;
+}
+
+.new{
+
+font-size: 14px;
+}
+
+.create{
+font-size: 14px;
+color: #4169E1;
+}
+
+.input1{
+display: flex;
+justify-content: center;
+align-content: center;
+}
+
+.input2{
+display: flex;
+justify-content: center;
+align-content: center;
+}
+
+.outros{
+font-size: 12px;
+margin-top: 80px;
+margin-left: 15px;
+}
+
+.logo{
+font-style: italic;
+text-align: center;
+font-size: 50px;
+margin-top: 30px;
+}
+
+.terms{
+font-size: 12px;
+color: #4169E1;
+}
+
+.textofinal{
+display: flex;
+justify-content: center;
+align-content: center;
+text-align: center;
+}
+
